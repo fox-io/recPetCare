@@ -1,0 +1,8 @@
+## Interface: 30300
+## Version: $Id: recPetCare.toc 584 2010-03-06 06:33:56Z john.d.mann@gmail.com $
+## Title: recPetCare
+## Notes: Easy hunter pet care
+## Author: Phanx, Recluse
+## Dependencies: recLib
+
+core.lua
